@@ -1,0 +1,31 @@
+_repo: Successful-Exploration-Through-the-Interior-of-Australia--13-From-Melbourne-To-The-Gulf-Of-Car__5816
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wills, William John
+    birthdate: 1834
+    deathdate: 1861
+    gutenberg_agent_id: '1879'
+    url: http://www.gutenberg.org/2009/agents/1879
+    wikipedia: http://en.wikipedia.org/wiki/William_John_Wills
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Burke and Wills Expedition, (1860-1861)'
+- !lcsh 'Burke, Robert O''Hara, 1821-1861'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Wills, William John, 1834-1861'
+- !lcsh 'Australia -- Description and travel'
+- GITenberg
+title: "Successful Exploration Through the Interior of Australia\r\nFrom Melbourne\
+  \ To The Gulf Of Carpentaria"
+url: http://www.gutenberg.org/ebooks/5816
